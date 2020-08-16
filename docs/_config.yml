@@ -28,6 +28,7 @@ url: "https://bundy-mundi.github.io" # the base hostname & protocol for your sit
 ## Here my customized settings ##
 author: Ben Kweon
 title_logo: /assets/img/logo_sample.png
+profile_img: /assets/img/profile_img.jpg
 
 # Social Media
 linkedin_username: "ben-kweon-84624a199"
