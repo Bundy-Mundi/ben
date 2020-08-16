@@ -1,6 +1,4 @@
 ---
-layout: default
+layout: page
 title: About
 ---
-# Welcome 
-## About Page
