@@ -24,11 +24,24 @@ description: >- # this means to ignore newlines until "baseurl:"
   Live Like You Are ...
 baseurl: "/ben" # the subpath of your site, e.g. /blog
 url: "https://bundy-mundi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
-github_username:  Bundy-Mundi
+
+## Here my customized settings ##
+author: Ben Kweon
+title_logo: /assets/img/logo_sample.png
+
+# Social Media
+linkedin_username: "ben-kweon-84624a199"
+facebook_username: "ben.kweon.33"
+instagram_username: "s_beom43"
+github_username: Bundy-Mundi
+pinterest_username: exit21sb
+
+# Copyright
+copyright: "Bennie.corp"
 
 # Build settings
-theme: minima
+# theme: minima
+# Removed Minima Theme, Now it's Regular Theme
 plugins:
   - jekyll-feed
 
