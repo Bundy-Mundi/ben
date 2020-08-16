@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Posts
+title: All Posts
 ---
 
 {% if site.posts.size > 0 %}
