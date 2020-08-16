@@ -1,5 +1,5 @@
 ---
 layout: default
-title: contact
+title: Contact
 ---
 # Contact page
