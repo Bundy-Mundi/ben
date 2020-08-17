@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Today's Phrase"
+date:   2020-08-17 16:06:00 +0900
+author: Ben Kweon
+big_category: english
+sub_category: phrases
+---
+
+### Today's Phrases
+
+1. **put `someone` through**
+2. **put a detail on `someone`**
+3. **I could have gone my whole life**
+4. 
+

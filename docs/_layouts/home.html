@@ -19,7 +19,7 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ site.posts[0].date | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ posts[0].url | relative_url }}">
+          <a class="post-link" href="{{ site.posts[0].url | relative_url }}">
             {{ site.posts[0].title | escape }}
           </a>
         </h3>
@@ -31,7 +31,7 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ site.posts[1].date | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ posts[0].url | relative_url }}">
+          <a class="post-link" href="{{ site.posts[1].url | relative_url }}">
             {{ site.posts[1].title | escape }}
           </a>
         </h3>
@@ -53,5 +53,40 @@ layout: default
     <div>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet odit perferendis sequi rerum accusantium minima officiis dolorem aliquam et. Sit possimus itaque doloremque aut facilis ratione quod sapiente voluptatibus vero!
     </div>
+  </div>
+  <div style="border-radius: 4px; box-shadow: 0px 2px 3px rgba(0,0,0,.13) ,1px 2px 2px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05) ; padding:1.5rem">
+    <h2 class="post-list-heading" style="color:black; font-weight: 600;">{{ page.list_title | default: "Posting Rules" }}</h2>
+    {% if site.posts.size > 0 %}
+      <ul class="post-list">
+      {% for post in site.posts %}
+      {%- if post.big_category == "rules" -%}
+      <li>
+        <h4>
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h4>
+      </li>
+      {% endif %}
+      {%- endfor -%}
+      </ul>
+    {% endif %} 
+  </div>
+  <div style="border-radius: 4px; box-shadow: 0px 2px 3px rgba(0,0,0,.13) ,1px 2px 2px rgba(0,0,0,.1) , -1px -2px 2px rgba(0,0,0,.05) ; padding:1.5rem">
+    <h2 class="post-list-heading" style="color:black; font-weight: 600;">{{ page.list_title | default: "Contact" }}</h2>
+    <h3>Phone</h3>
+    <ul>
+      <li>82+ 10-8583-8638 (KOR)</li>
+    </ul>
+    <h3>Email</h3>
+    <ul>
+      <li>exit21sb@gmail.com</li>
+      <li>bennie.ben095@gmail.com</li>
+    </ul>
+    <h3>Location</h3>
+    <ul>
+      <li>Seo-Won-Ro 289 | Wansan-Gu | Jeon-Ju-si | Republic of Korea</li>
+      <li>Richland Avenue 11209 | Los Angeles | CA | United States</li>
+    </ul>
   </div>
 </div>
