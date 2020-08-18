@@ -7,10 +7,15 @@ big_category: english
 sub_category: phrases
 ---
 
-### Today's Phrases
+### 2020-08-17 Phrases
 
 1. **put `someone` through**
+> `~`로 하여금 힘든 시간을 보내게 하다
 2. **put a detail on `someone`**
-3. **I could have gone my whole life**
-4. 
+> ~ 로 하여금 
+3. **I could have gone my whole life without `smth` **
+> `~`없이 계속 지낼 수 있었는데
+4. **I feel very differently about it now**
+5. **Whatever's best for you**
+6. **Can relate to `smth / someone`**
 
