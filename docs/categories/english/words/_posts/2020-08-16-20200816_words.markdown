@@ -10,6 +10,10 @@ sub_category: words
 ### Today's Word
 
 1. **hunch**
+> 감
 2. **fluke**
+> 운
 3. **pushover**
-
+> 팔랑귀
+4. **pupil**
+> 동료, 각막
