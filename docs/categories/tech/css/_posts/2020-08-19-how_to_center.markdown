@@ -7,7 +7,7 @@ big_category: tech
 sub_category: css
 ---
 
-## How to center your divs??
+## Let's face it, it's really annoying and zero-fun.
 
 It's always been challenging to center divs for develpers, not only in their beggining, but also after some experiences in dealing with css.
 
