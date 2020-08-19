@@ -7,7 +7,7 @@ big_category: english
 sub_category: phrases
 ---
 
-### 2020-08-17 Phrases
+### Useful English Phrases
 
 1. **put `someone` through**
 > `~`로 하여금 힘든 시간을 보내게 하다
