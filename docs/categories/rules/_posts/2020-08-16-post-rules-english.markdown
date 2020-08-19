@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "English Posts Rules"
-date:   2020-08-16 16:06:00 +0900
+date:   2020-08-16 15:00:00 +0900
 author: Ben Kweon
 big_category: rules
 ---
