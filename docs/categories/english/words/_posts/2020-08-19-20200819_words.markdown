@@ -34,5 +34,5 @@ sub_category: phrases
 9. **tripped up**
 > confused, 헤메다
 
-10. mood
+10. **mood**
 > same, can relate, 공감(하다)
