@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "#1 The Trinity of IT Security - CIA"
+date:   2020-08-21 12:00:00 +0900
+author: Ben Kweon
+big_category: tech
+sub_category: cyber-security
+---
+
+### 1. Confidentiality
+
+> * Limits access to information
+> * Ensures privacy
+
+##### Confidentiality Methods
+
+* Encryption
+* Biometrics
+* Passwords
+* Security Tokens
+
+### 2. Integrity
+
+> Maintains the consistency, accuracy and trustworthiness of data.
+
+##### Confidentiality Methods
+
+* User Access Controls 
+* Checksums
+
+### 3. Availability
+
+> Ensures that data is available at all times.
+
+##### Availability Methods
+
+* Backups
+* Hardware maintenance and repairs
+* Disaster recovery
+
+### CIA Summary
+
+C -> Confidentiality: Set of rules limiting access to information.
+I -> Integrity: Is the assurance that information has not been compromised.
+A -> Availability: Is a guarantee of reliable access to the information by authorized people.
