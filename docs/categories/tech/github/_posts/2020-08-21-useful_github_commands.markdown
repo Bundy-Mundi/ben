@@ -49,8 +49,11 @@ $ git remote -v
 $ git remote set-url origin [name_of_your_new_url]
 ```
 
-### 6. Synchronize Branch List
-
+### 6. Deleting git folder
+First, delete the ``.git`` folder manually.
+```bash
+$ git rm --cached . -rf
+```
 
 
 
