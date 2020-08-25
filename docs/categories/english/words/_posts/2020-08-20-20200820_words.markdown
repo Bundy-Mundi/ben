@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "2020-08-20 Words"
+date:   2020-08-20 15:06:00 +0900
+author: Ben Kweon
+big_category: english
+sub_category: phrases
+---
+1. **catch on**
+> take off, become popular, 유명해지다
+> understand, 이해하다
+2. **breach**
+> verb | (약속, 신뢰 등을) 저버리다, 깨버리다
+> noun | split, crack, break, violation, breaking ...
